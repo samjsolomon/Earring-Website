@@ -1,4 +1,4 @@
-[Kalico.gif]
+[Kalico.gif](https://github.com/samjsolomon/Earring-Website/blob/master/Kalico.gif)
 
 ## Available Scripts
 
