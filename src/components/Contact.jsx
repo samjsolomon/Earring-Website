@@ -13,7 +13,7 @@ function Contact(){
     </div>
     <div className="row">
       <div className="col-lg-12">
-        <form id="contactForm" name="sentMessage" novalidate="novalidate">
+        <form id="contactForm" name="sentMessage" novalidate="novalidate" netlify>
           <div className="row">
             <div className="col-md-6">
               <div className="form-group">
