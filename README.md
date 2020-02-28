@@ -1,4 +1,8 @@
+
+Check it out here: www.thekalico.com
+
 ![Kalico.gif](https://github.com/samjsolomon/Earring-Website/blob/master/Kalico.gif)
+
 
 ## Available Scripts
 
